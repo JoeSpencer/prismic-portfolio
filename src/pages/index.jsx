@@ -6,7 +6,7 @@ import { Layout, Listing, Wrapper, Title } from '../components'
 import website from '../../config/website'
 
 const Hero = styled.header`
-  background-color: ${props => props.theme.colors.greyLight};
+  background-color: ${props => props.theme.colors.joeBlue};
   display: flex;
   align-items: center;
 `
